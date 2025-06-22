@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Masroor-Hajari
-- 👀 I’m interested in developing C++, MATLAB, and Python codes.
+- 👀 I’m interested in developing C++, MATLAB, and Python scripts.
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
