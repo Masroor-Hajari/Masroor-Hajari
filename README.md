@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Masroor-Hajari
+- 👋 Hi, I’m @Masroor-Hajari.
 - 👀 I have a strong interest in developing software projects in C++, MATLAB, and Python.
 <!---
 - 🌱 I’m currently learning ...
